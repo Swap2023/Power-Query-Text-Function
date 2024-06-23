@@ -1,4 +1,4 @@
-# PBI-TEXT-FUNCTION
+# PBI-TEXT-FUNCTION #
 TEXT FUNCTIONS
 1  Concatination/merging of columns in to one column
 Add column - Column from Examples
